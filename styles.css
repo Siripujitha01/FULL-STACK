@@ -1,0 +1,54 @@
+.one{
+	padding-top: 131px;
+    color: darkred;
+    text-decoration-style: solid;
+    text-align: center;
+    font-style: italic;
+}
+body{
+	background-color: hotpink;
+}
+.two{
+	color: gray;
+    text-decoration-style: solid;
+    text-align: center;
+    font-style: italic;
+}
+.three{
+	padding: 40px;
+    text-align: center;
+    font-style: italic;
+    color: seagreen;
+}
+.four{
+	height: 100px;
+	width: 208px;
+	padding-top: 10px;
+	margin-bottom: 20px;
+}
+.five{
+	text-align: center;
+	font-style: italic;
+	color: skyblue;
+	padding: 40px;
+}
+.six{
+	border-bottom-color: black;
+
+	background-color: hotpink;
+}
+.seven{
+	background-color: black;
+	color: white;
+	font-style: italic;
+	margin-bottom: 30px;
+}
+.mom{
+	background-color: black;
+	color: white;
+	margin-bottom: 50px;
+}
+.fin{
+	color: white;
+	margin: 20px;
+}
